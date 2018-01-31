@@ -7,8 +7,8 @@ if (name === Joe) {
   console.log("This name is correct")
 }
 
-if (height === 70) {
-  console.log("The height is correct")
+if (height === 74) {
+  console.log("The height is not correct")
 }
 
 // Don't worry about this
